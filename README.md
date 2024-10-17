@@ -55,7 +55,7 @@
 
 ### Certification
 
-- **[Snowflake SnowPro Core Certification](https://achieve.snowflake.com/7c10a70f-e1e0-495e-8f76-b9e65b2e2d6b)** 
+- **[Snowflake SnowPro Core Certification](https://achieve.snowflake.com/38f88cd4-bcf4-4294-ad4b-bf36c0e5546b)** 
   <div align="center">
     <img src="https://github.com/user-attachments/assets/2ca570a6-3e2c-424c-b4fc-871844841cf7" alt="Snowflake_Certificate" width="777"/>
   </div>
