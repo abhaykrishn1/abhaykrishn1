@@ -16,7 +16,7 @@
 ### Technical Skills
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,nodejs,react,solr,mysql,mongodb,aws,docker,rabbitmq,snowflake,databricks,linux,postman,git,"> 
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,react,solr,mongodb,mysql,aws,docker,rabbitmq,snowflake,git,linux,postman,"> 
   </p>
 
 ----
