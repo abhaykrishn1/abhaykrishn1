@@ -5,10 +5,11 @@
 
 ### A Data Engineer  
 
-🔭 I’m currently building microservices using Django and Flask<br>
+🔭 I’m currently building RAG ChatBot, powered by MongoDb Atlas Vector Search & effiecent pipeline for cleaning <br>
 🌱 I’m currently learning cloud technologies (AWS, Snowflake)<br>
+🔧 Experience in building microservices using Django and Flask, SpringBoot<br>
 💬 Ask me about backend development and data engineering<br>
-🔧 Specialty in Docker, RabbitMQ, and Django<br>
+🔧 Specialty in RAG, ETL, Docker and Django<br>
 📫 Reach me at: [abhaykrishn1](mailto:abhaykrishn1@gmail.com)
 
 ----
@@ -16,7 +17,7 @@
 ### Technical Skills
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,aws,solr,rabbitmq,docker,snowflake,postman,git,linux"> 
+    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,aws,solr,rabbitmq,docker,snowflake,linux,postman,git"> 
   </p>
 
 ----
