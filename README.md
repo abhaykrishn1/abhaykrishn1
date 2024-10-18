@@ -3,7 +3,7 @@
     
 # Hi 👋 I'm [Abhay Krishna](https://www.linkedin.com/in/abhaykrishn1) 
 
-### A Junior Data Engineer <img src="https://media.tenor.com/dqxmpGSfdv4AAAAj/akirambow-plump-little-chick.gif" width="40"/> 
+### A Data Engineer  
 
 🔭 I’m currently building microservices using Django and Flask<br>
 🌱 I’m currently learning cloud technologies (AWS, Snowflake)<br>
@@ -16,7 +16,7 @@
 ### Technical Skills
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,aws,solr,rabbitmq,docker,snowflake,postman,git,linux">
+    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,aws,solr,rabbitmq,docker,snowflake,postman,git,linux"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116888741">
   </p>
 
 ----
@@ -57,7 +57,7 @@
 
 - **[Snowflake SnowPro Core Certification](https://achieve.snowflake.com/38f88cd4-bcf4-4294-ad4b-bf36c0e5546b)** 
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/2ca570a6-3e2c-424c-b4fc-871844841cf7" alt="Snowflake_Certificate" width="777"/>
+    <img src="" alt="Snowflake_Certificate_img" width="777"/>
   </div>
 
 </div>
