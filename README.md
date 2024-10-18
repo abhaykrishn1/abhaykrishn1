@@ -16,7 +16,7 @@
 ### Technical Skills
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,aws,solr,rabbitmq,docker,snowflake,postman,git,linux"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116888741">
+    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mysql,mongodb,aws,solr,rabbitmq,docker,snowflake,postman,git,linux"> 
   </p>
 
 ----
@@ -54,10 +54,11 @@
 ----
 
 ### Certification
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116888741">
 
 - **[Snowflake SnowPro Core Certification](https://achieve.snowflake.com/38f88cd4-bcf4-4294-ad4b-bf36c0e5546b)** 
   <div align="center">
-    <img src="" alt="Snowflake_Certificate_img" width="777"/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/116888741" alt="Snowflake_Certificate_img" width="777"/>
   </div>
 
 </div>
