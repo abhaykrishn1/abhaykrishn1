@@ -55,14 +55,21 @@
 
 ### Certification
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/116888741">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff8f00ef-a25e-41f5-bd43-9f39d0b64b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 - **[Snowflake SnowPro Core Certification](https://achieve.snowflake.com/38f88cd4-bcf4-4294-ad4b-bf36c0e5546b)** 
   <div align="center">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/116888741" alt="Snowflake_Certificate_img" width="777"/>
   </div>
 
+----
+#Badge
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff8f00ef-a25e-41f5-bd43-9f39d0b64b96" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 </div>
+
 </body>
 
 <!---
