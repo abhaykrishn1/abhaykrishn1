@@ -8,7 +8,7 @@
 🔭 I’m currently building RAG ChatBot, powered by MongoDb Atlas Vector Search & creating effiecent pipeline for vector embedding, data cleaning, retrival <br>
 🌱 Experience in building microservices using Django, Flask and SpringBoot<br>
 💬 Ask me about system design, backend development and data engineering<br>
-🔧 Specialty in RAG, ETL, Docker and Django<br>
+🔧 Specialty in RAG, ETL, Docker, Django and FastApi<br>
 📫 Reach me at: [abhaykrishn1](mailto:abhaykrishn1@gmail.com)
 
 ----
